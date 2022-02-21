@@ -183,7 +183,7 @@ crt = ["awscrt (==0.12.5)"]
 
 [[package]]
 name = "braintree"
-version = "4.13.1"
+version = "4.14.0"
 description = "Braintree Python Library"
 category = "main"
 optional = false
@@ -2770,8 +2770,8 @@ python-versions = "*"
 
 [metadata]
 lock-version = "1.1"
-  python-versions = "~3.9"
-content-hash = "ec299ffb4d5d0d43adbc157c3311d9b6928d942fa9c73b086ece66a466e8f6f5"
+python-versions = "~3.9"
+content-hash = "2753a986a664ce9cc2f21874402afaea27ebc75dbccb004dfc7b9aefd868e903"
 
 [metadata.files]
 adyen = [
@@ -2834,8 +2834,8 @@ botocore = [
     {file = "botocore-1.24.0.tar.gz", hash = "sha256:47723cef6112f451630bf2446cfd6be2782cc1d6b1b92acb12ff00797588c5f3"},
 ]
 braintree = [
-    {file = "braintree-4.13.1-py2.py3-none-any.whl", hash = "sha256:10f88c894f190f9d2d4e5b435733aca607926a8f365b569c0630b62dc1fb64fb"},
-    {file = "braintree-4.13.1.tar.gz", hash = "sha256:4f6addf89f5cd6123243ddc89db325e50fceec825845901dad553fde115bd938"},
+    {file = "braintree-4.14.0-py2.py3-none-any.whl", hash = "sha256:befa671221f7747033b35dbecdf25a53ce621d3c5e0f098e222bc33d8d83a56b"},
+    {file = "braintree-4.14.0.tar.gz", hash = "sha256:d209e56f99ba29002b770699a0517a75cbc02f789026265380b54c429fc4a011"},
 ]
 brotli = [
     {file = "Brotli-1.0.9-cp27-cp27m-macosx_10_9_x86_64.whl", hash = "sha256:268fe94547ba25b58ebc724680609c8ee3e5a843202e9a381f6f9c5e8bdb5c70"},
